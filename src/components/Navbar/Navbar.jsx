@@ -21,7 +21,7 @@ import Home from '../Home/home';
 import About from '../About/About';
 import Offers from '../Offers/offers';
 import Projects from '../Projects/projects';
-import Skills from '../Skills/Skills';
+import Skills from '../Skills/skills';
 import Contact from '../Contact/contact';
 
 import '../Navbar/Navbar.css';
