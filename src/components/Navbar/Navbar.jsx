@@ -19,7 +19,7 @@ import { Link, Events, scroll, scroller } from 'react-scroll'; // Import Link fr
 // Import your components
 import Home from '../Home/home';
 import About from '../About/About';
-import Offers from '../Offers/Offers';
+import Offers from '../Offers/offers';
 import Projects from '../Projects/projects';
 import Skills from '../Skills/Skills';
 import Contact from '../Contact/contact';
